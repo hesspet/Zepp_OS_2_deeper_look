@@ -1,5 +1,4 @@
-# Zepp_OS_2_deeper_look
-Zepp OS 2 - A deeper look into
+# Zepp OS 2 - a deeper look into 
 
 This is a collection of texts and code examples that I have written as part of my "research" around Zepp-OS. To be honest, the original documentation of Zepp-OS2 is simply too incomplete for me. Above all, the API description and its lack of detailed documentation, which significantly complicates the entry into development with Zepp-OS 2, have prompted me to publish my own notes here.
 
